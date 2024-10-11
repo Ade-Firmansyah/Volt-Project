@@ -1,6 +1,6 @@
 # Volt - MLBB Injector
 
-![Volt Logo]([https://example.com/logo.png](https://logowik.com/content/uploads/images/mobile-legends-bang-bang9278.jpg))
+![Volt Logo](https://logowik.com/content/uploads/images/mobile-legends-bang-bang9278.jpg)
 
 ## 🔍 Deskripsi
 **Volt** adalah sebuah proyek ambisius yang dirancang untuk memberikan pengguna akses tak terbatas ke fitur premium di Mobile Legends: Bang Bang (MLBB). Dengan alat ini, pengguna dapat meningkatkan pengalaman bermain mereka dengan cara yang lebih menyenangkan dan mendebarkan.
